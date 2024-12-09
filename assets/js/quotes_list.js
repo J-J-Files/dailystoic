@@ -12,3 +12,4 @@ export const quotes = [
         explanation: "Rivers,” Publilius Syrus reminds us with an epigram, “are easiest to cross at their source.” That’s what Seneca means too. The raging waters and deadly currents of bad habits, ill discipline, chaos, and dysfunction—somewhere they began as no more than just a slight trickle. Somewhere they are a placid lake or pond, even a bubbling underground spring. Which would you rather do—nearly drown in a dangerous crossing in a few weeks or cross now while it’s still easy? It’s up to you."
     }
 ];
+
