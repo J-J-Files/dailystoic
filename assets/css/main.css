@@ -16,6 +16,15 @@ Custom Changes
 	height: 75px;
 }
 
+#quote {
+	font-size: 18px;
+}
+
+#explanation {
+	font-size: 14px;
+	font-style: normal;
+}
+
 /*
 Out of the box
 */
