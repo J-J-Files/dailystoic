@@ -1,5 +1,5 @@
 
-import * from './quotes_list.js';
+import { quotes } from './quotes_list.js';
 
 
 function getCurrentQuote() {
