@@ -122,7 +122,7 @@
 
 	// Background.
 		$wrapper._parallax(0.925);
-
+/*
 	// Nav Panel.
 
 		// Toggle.
@@ -195,7 +195,7 @@
 				&&	browser.osVersion < 10)
 					$navPanel
 						.css('transition', 'none');
-
+*/
 	// Intro.
 		var $intro = $('#intro');
 
