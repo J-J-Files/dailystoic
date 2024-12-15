@@ -5,7 +5,7 @@ CLARITY
 CONTROL AND CHOICE
 
 {
-        quote: "“The chief task in life is simply this: to identify and separate
+        quote: "The chief task in life is simply this: to identify and separate
 matters so that I can say clearly to myself which are externals
 not under my control, and which have to do with the choices I
 actually control. Where then do I look for good and evil? Not to
@@ -38,7 +38,8 @@ fail to realize they are fighting an unwinnable battle.
 January 2nd
 EDUCATION IS FREEDOM
 
-“What is the fruit of these teachings? Only the most beautiful
+{
+        quote: "What is the fruit of these teachings? Only the most beautiful
 and proper harvest of the truly educated—tranquility,
 fearlessness, and freedom. We should not trust the masses who
 say only the free can be educated, but rather the lovers of
@@ -59,7 +60,8 @@ your time than reading or studying philosophy. Knowledge—selfknowledge in part
 January 3rd
 BE RUTHLESS TO THE THINGS THAT DON’T MATTER
 
-“How many have laid waste to your life when you weren’t aware
+{
+        quote: "How many have laid waste to your life when you weren’t aware
 of what you were losing, how much was wasted in pointless
 grief, foolish joy, greedy desire, and social amusements—how
 little of your own was left to you. You will realize you are
@@ -85,7 +87,8 @@ that you want.
 January 4th
 THE BIG THREE
 
-“All you need are these: certainty of judgment in the present
+{
+        quote: "All you need are these: certainty of judgment in the present
 moment;
 action for the common good in the present moment;
 and an attitude of gratitude in the present moment for anything
@@ -110,7 +113,8 @@ That’s all we need to do.
 January 5th
 CLARIFY YOUR INTENTIONS
 
-“Let all your efforts be directed to something, let it keep that end
+{
+        quote: "Let all your efforts be directed to something, let it keep that end
 in view. It’s not activity that disturbs people, but false
 conceptions of things that drive them mad.”
 —SENECA, ON TRANQUILITY OF MIND, 12.5
@@ -137,7 +141,8 @@ worse, into madness by the oblivion of directionlessness.
 January 6th
 WHERE, WHO, WHAT, AND WHY
 
-“A person who doesn’t know what the universe is, doesn’t know
+{
+        quote: "A person who doesn’t know what the universe is, doesn’t know
 where they are. A person who doesn’t know their purpose in
 life doesn’t know who they are or what the universe is. A
 person who doesn’t know any one of these things doesn’t know
@@ -163,7 +168,8 @@ disappointing or unfulfilling or nonexistent paths?
 January 7th
 SEVEN CLEAR FUNCTIONS OF THE MIND
 
-“The proper work of the mind is the exercise of choice, refusal,
+{
+        quote: "The proper work of the mind is the exercise of choice, refusal,
 yearning, repulsion, preparation, purpose, and assent. What
 then can pollute and clog the mind’s proper functioning?
 Nothing but its own corrupt decisions.”
@@ -184,7 +190,8 @@ and see everything else as pollution or a corruption.
 January 8th
 SEEING OUR ADDICTIONS
 
-“We must give up many things to which we are addicted,
+{
+        quote: "We must give up many things to which we are addicted,
 considering them to be good. Otherwise, courage will vanish,
 which should continually test itself. Greatness of soul will be
 lost, which can’t stand out unless it disdains as petty what the
@@ -208,7 +215,8 @@ ability to abstain because within it is your clarity and self-control.
 January 9th
 WHAT WE CONTROL AND WHAT WE DON’T
 
-“Some things are in our control, while others are not. We control
+{
+        quote: "Some things are in our control, while others are not. We control
 our opinion, choice, desire, aversion, and, in a word, everything
 of our own doing. We don’t control our body, property,
 reputation, position, and, in a word, everything not of our own
@@ -234,7 +242,8 @@ it’s much better and more appropriately directed inward.
 January 10th
 IF YOU WANT TO BE STEADY
 
-“The essence of good is a certain kind of reasoned choice; just as
+{
+        quote: "The essence of good is a certain kind of reasoned choice; just as
 the essence of evil is another kind. What about externals, then?
 They are only the raw material for our reasoned choice, which
 finds its own good or evil in working with them. How will it
@@ -261,7 +270,8 @@ if you want clarity, proper judgment is the best way.
 January 11th
 IF YOU WANT TO BE UNSTEADY
 
-“For if a person shifts their caution to their own reasoned choices
+{
+        quote: "For if a person shifts their caution to their own reasoned choices
 and the acts of those choices, they will at the same time gain
 the will to avoid, but if they shift their caution away from their
 own reasoned choices to things not under their control, seeking
@@ -286,7 +296,8 @@ wherever you happen to be.
 January 12th
 THE ONE PATH TO SERENITY
 
-“Keep this thought at the ready at daybreak, and through the day
+{
+        quote: "Keep this thought at the ready at daybreak, and through the day
 and night—there is only one path to happiness, and that is in
 giving up all outside of your sphere of choice, regarding
 nothing else as your possession, surrendering all else to God
@@ -312,7 +323,8 @@ again tomorrow.
 January 13th
 CIRCLE OF CONTROL
 
-“We control our reasoned choice and all acts that depend on that
+{
+        quote: "We control our reasoned choice and all acts that depend on that
 moral will. What’s not under our control are the body and any
 of its parts, our possessions, parents, siblings, children, or
 country—anything with which we might associate.”
@@ -336,7 +348,8 @@ So mind it.
 January 14th
 CUT THE STRINGS THAT PULL YOUR MIND
 
-“Understand at last that you have something in you more
+{
+        quote: "Understand at last that you have something in you more
 powerful and divine than what causes the bodily passions and
 pulls you like a mere puppet. What thoughts now occupy my
 mind? Is it not fear, suspicion, desire, or something like that?”
@@ -364,7 +377,8 @@ string?
 January 15th
 PEACE IS IN STAYING THE COURSE
 
-“Tranquility can’t be grasped except by those who have reached
+{
+        quote: "Tranquility can’t be grasped except by those who have reached
 an unwavering and firm power of judgment—the rest
 constantly fall and rise in their decisions, wavering in a state of
 alternately rejecting and accepting things. What is the cause of
@@ -391,7 +405,8 @@ toward the rocks.
 January 16th
 NEVER DO ANYTHING OUT OF HABIT
 
-“So in the majority of other things, we address circumstances not
+{
+        quote: "So in the majority of other things, we address circumstances not
 in accordance with the right assumptions, but mostly by
 following wretched habit. Since all that I’ve said is the case, the
 person in training must seek to rise above, so as to stop seeking
@@ -416,7 +431,8 @@ the right reasons.
 January 17th
 REBOOT THE REAL WORK
 
-“I am your teacher and you are learning in my school. My aim is
+{
+        quote: "I am your teacher and you are learning in my school. My aim is
 to bring you to completion, unhindered, free from compulsive
 behavior, unrestrained, without shame, free, flourishing, and
 happy, looking to God in things great and small—your aim is to
@@ -444,7 +460,8 @@ work. The rest follows.
 January 18th
 SEE THE WORLD LIKE A POET AND AN ARTIST
 
-“Pass through this brief patch of time in harmony with nature,
+{
+        quote: "Pass through this brief patch of time in harmony with nature,
 and come to your final resting place gracefully, just as a ripened
 olive might drop, praising the earth that nourished it and
 grateful to the tree that gave it growth.”
@@ -472,7 +489,8 @@ seeing the world as some dark place?
 January 19th
 WHEREVER YOU GO, THERE YOUR CHOICE IS
 
-“A podium and a prison is each a place, one high and the other
+{
+        quote: "A podium and a prison is each a place, one high and the other
 low, but in either place your freedom of choice can be
 maintained if you so wish.”
 —EPICTETUS, DISCOURSES, 2.6.25
@@ -497,7 +515,8 @@ regardless of our station. How will you answer?
 January 20th
 REIGNITE YOUR THOUGHTS
 
-“Your principles can’t be extinguished unless you snuff out the
+{
+        quote: "Your principles can’t be extinguished unless you snuff out the
 thoughts that feed them, for it’s continually in your power to
 reignite new ones. . . . It’s possible to start living again! See
 things anew as you once did—that is how to restart life!”
@@ -521,7 +540,8 @@ Why not do it right now?
 January 21st
 A MORNING RITUAL
 
-“Ask yourself the following first thing in the morning:
+{
+        quote: "Ask yourself the following first thing in the morning:
 What am I lacking in attaining freedom from passion?
 What for tranquility?
 What am I? A mere body, estate-holder, or reputation? None of
@@ -552,7 +572,8 @@ at a time, over the course of a life.
 January 22nd
 THE DAY IN REVIEW
 
-“I will keep constant watch over myself and—most usefully—
+{
+        quote: "I will keep constant watch over myself and—most usefully—
 will put each day up for review. For this is what makes us evil
 —that none of us looks back upon our own lives. We reflect
 upon only that which we are about to do. And yet our plans for
@@ -581,7 +602,8 @@ a running tally to track your progress too.
 January 23rd
 THE TRUTH ABOUT MONEY
 
-“Let’s pass over to the really rich—how often the occasions they
+{
+        quote: "Let’s pass over to the really rich—how often the occasions they
 look just like the poor! When they travel abroad they must
 restrict their baggage, and when haste is necessary, they dismiss
 their entourage. And those who are in the army, how few of
@@ -608,7 +630,8 @@ change the same will be true for us.
 January 24th
 PUSH FOR DEEP UNDERSTANDING
 
-“From Rusticus . . . I learned to read carefully and not be
+{
+        quote: "From Rusticus . . . I learned to read carefully and not be
 satisfied with a rough understanding of the whole, and not to
 agree too quickly with those who have a lot to say about
 something.”
@@ -637,7 +660,8 @@ at a time. So we can take the time to read attentively and deeply.
 January 25th
 THE ONLY PRIZE
 
-“What’s left to be prized? This, I think—to limit our action or
+{
+        quote: "What’s left to be prized? This, I think—to limit our action or
 inaction to only what’s in keeping with the needs of our own
 preparation . . . it’s what the exertions of education and
 teaching are all about—here is the thing to be prized! If you
@@ -675,7 +699,8 @@ less free we are.
 January 26th
 THE POWER OF A MANTRA
 
-“Erase the false impressions from your mind by constantly
+{
+        quote: "Erase the false impressions from your mind by constantly
 saying to yourself, I have it in my soul to keep out any evil,
 desire or any kind of disturbance—instead, seeing the true
 nature of things, I will give them only their due. Always
@@ -699,7 +724,8 @@ mantra and use it to find the clarity you crave.
 January 27th
 THE THREE AREAS OF TRAINING
 
-“There are three areas in which the person who would be wise
+{
+        quote: "There are three areas in which the person who would be wise
 and good must be trained. The first has to do with desires and
 aversions—that a person may never miss the mark in desires
 nor fall into what repels them. The second has to do with
@@ -735,7 +761,8 @@ success.
 January 28th
 WATCHING THE WISE
 
-“Take a good hard look at people’s ruling principle, especially of
+{
+        quote: "Take a good hard look at people’s ruling principle, especially of
 the wise, what they run away from and what they seek out.”
 —MARCUS AURELIUS, MEDITATIONS, 4.38
 
@@ -752,7 +779,8 @@ do your best to do the same.
 January 29th
 KEEP IT SIMPLE
 
-“At every moment keep a sturdy mind on the task at hand, as a
+{
+        quote: "At every moment keep a sturdy mind on the task at hand, as a
 Roman and human being, doing it with strict and simple
 dignity, affection, freedom, and justice—giving yourself a
 break from all other considerations. You can do this if you
@@ -780,7 +808,8 @@ job today.
 January 30th
 YOU DON’T HAVE TO STAY ON TOP OF EVERYTHING
 
-“If you wish to improve, be content to appear clueless or stupid
+{
+        quote: "If you wish to improve, be content to appear clueless or stupid
 in extraneous matters—don’t wish to seem knowledgeable.
 And if some regard you as important, distrust yourself.”
 —EPICTETUS, ENCHIRIDION, 13a
@@ -806,7 +835,8 @@ of which never come to pass anyway)?
 January 31st
 PHILOSOPHY AS MEDICINE OF THE SOUL
 
-“Don’t return to philosophy as a task-master, but as patients seek
+{
+        quote: "Don’t return to philosophy as a task-master, but as patients seek
 out relief in a treatment of sore eyes, or a dressing for a burn, or
 from an ointment. Regarding it this way, you’ll obey reason
 without putting it on display and rest easy in its care.”
@@ -832,7 +862,8 @@ PASSIONS AND EMOTIONS
 February 1st
 FOR THE HOT-HEADED MAN
 
-“Keep this thought handy when you feel a fit of rage coming on
+{
+        quote: "Keep this thought handy when you feel a fit of rage coming on
 —it isn’t manly to be enraged. Rather, gentleness and civility
 are more human, and therefore manlier. A real man doesn’t
 give way to anger and discontent, and such a person has
@@ -858,7 +889,8 @@ control of their passions—rather than controlled by their passions.
 February 2nd
 A PROPER FRAME OF MIND
 
-“Frame your thoughts like this—you are an old person, you
+{
+        quote: "Frame your thoughts like this—you are an old person, you
 won’t let yourself be enslaved by this any longer, no longer
 pulled like a puppet by every impulse, and you’ll stop
 complaining about your present fortune or dreading the future.”
@@ -883,7 +915,8 @@ independent, self-sufficient people.
 February 3rd
 THE SOURCE OF YOUR ANXIETY
 
-“When I see an anxious person, I ask myself, what do they want?
+{
+        quote: "When I see an anxious person, I ask myself, what do they want?
 For if a person wasn’t wanting something outside of their own
 control, why would they be stricken by anxiety?”
 —EPICTETUS, DISCOURSES, 2.13.1
@@ -907,7 +940,8 @@ most important: Is my anxiety doing me any good?
 February 4th
 ON BEING INVINCIBLE
 
-“Who then is invincible? The one who cannot be upset by
+{
+        quote: "Who then is invincible? The one who cannot be upset by
 anything outside their reasoned choice.”
 —EPICTETUS, DISCOURSES, 1.18.21
 
@@ -932,7 +966,8 @@ can point back into the crowd and say, “Next!”
 February 5th
 STEADY YOUR IMPULSES
 
-“Don’t be bounced around, but submit every impulse to the
+{
+        quote: "Don’t be bounced around, but submit every impulse to the
 claims of justice, and protect your clear conviction in every
 appearance.”
 —MARCUS AURELIUS, MEDITATIONS, 4.22
@@ -952,7 +987,8 @@ principles are guiding me?
 February 6th
 DON’T SEEK OUT STRIFE
 
-“I don’t agree with those who plunge headlong into the middle
+{
+        quote: "I don’t agree with those who plunge headlong into the middle
 of the flood and who, accepting a turbulent life, struggle daily
 in great spirit with difficult circumstances. The wise person will
 endure that, but won’t choose it—choosing to be at peace,
@@ -983,7 +1019,8 @@ this is a big but, only if we’re in the arena for the right reasons.
 February 7th
 FEAR IS A SELF-FULFILLING PROPHECY
 
-“Many are harmed by fear itself, and many may have come to
+{
+        quote: "Many are harmed by fear itself, and many may have come to
 their fate while dreading fate.”
 —SENECA, OEDIPUS, 992
 
@@ -1008,7 +1045,8 @@ can happen to us too.
 February 8th
 DID THAT MAKE YOU FEEL BETTER?
 
-“You cry, I’m suffering severe pain! Are you then relieved from
+{
+        quote: "You cry, I’m suffering severe pain! Are you then relieved from
 feeling it, if you bear it in an unmanly way?”
 —SENECA, MORAL LETTERS, 78.17
 
@@ -1027,7 +1065,8 @@ wish were gone?
 February 9th
 YOU DON’T HAVE TO HAVE AN OPINION
 
-“We have the power to hold no opinion about a thing and to not
+{
+        quote: "We have the power to hold no opinion about a thing and to not
 let it upset our state of mind—for things have no natural power
 to shape our judgments.”
 —MARCUS AURELIUS, MEDITATIONS, 6.52
@@ -1048,7 +1087,8 @@ It’ll be a lot less powerful this way.
 February 10th
 ANGER IS BAD FUEL
 
-“There is no more stupefying thing than anger, nothing more
+{
+        quote: "There is no more stupefying thing than anger, nothing more
 bent on its own strength. If successful, none more arrogant, if
 foiled, none more insane—since it’s not driven back by
 weariness even in defeat, when fortune removes its adversary it
@@ -1078,7 +1118,8 @@ question, but never worth the costs that come along with it.
 February 11th
 HERO OR NERO?
 
-“Our soul is sometimes a king, and sometimes a tyrant. A king,
+{
+        quote: "Our soul is sometimes a king, and sometimes a tyrant. A king,
 by attending to what is honorable, protects the good health of
 the body in its care, and gives it no base or sordid command.
 But an uncontrolled, desire-fueled, over-indulged soul is turned
@@ -1104,7 +1145,8 @@ or king? Hero or Nero? Which will you be?
 February 12th
 PROTECT YOUR PEACE OF MIND
 
-“Keep constant guard over your perceptions, for it is no small
+{
+        quote: "Keep constant guard over your perceptions, for it is no small
 thing you are protecting, but your respect, trustworthiness and
 steadiness, peace of mind, freedom from pain and fear, in a
 word your freedom. For what would you sell these things?”
@@ -1129,7 +1171,8 @@ one.
 February 13th
 PLEASURE CAN BECOME PUNISHMENT
 
-“Whenever you get an impression of some pleasure, as with any
+{
+        quote: "Whenever you get an impression of some pleasure, as with any
 impression, guard yourself from being carried away by it, let it
 await your action, give yourself a pause. After that, bring to
 mind both times, first when you have enjoyed the pleasure and
@@ -1162,7 +1205,8 @@ becomes the real pleasure, and the temptation becomes the regret.
 February 14th
 THINK BEFORE YOU ACT
 
-“For to be wise is only one thing—to fix our attention on our
+{
+        quote: "For to be wise is only one thing—to fix our attention on our
 intelligence, which guides all things everywhere.”
 —HERACLITUS, QUOTED IN DIOGENES LAERTIUS, LIVES OF THE EMINENT PHILOSOPHERS, 9.1
 
@@ -1178,7 +1222,8 @@ Fix your attention on your intelligence. Let it do its thing.
 February 15th
 ONLY BAD DREAMS
 
-“Clear your mind and get a hold on yourself and, as when
+{
+        quote: "Clear your mind and get a hold on yourself and, as when
 awakened from sleep and realizing it was only a bad dream
 upsetting you, wake up and see that what’s there is just like
 those dreams.”
@@ -1205,7 +1250,8 @@ up right now instead of creating a nightmare.
 February 16th
 DON’T MAKE THINGS HARDER THAN THEY NEED TO BE
 
-“If someone asks you how to write your name, would you bark
+{
+        quote: "If someone asks you how to write your name, would you bark
 out each letter? And if they get angry, would you then return
 the anger? Wouldn’t you rather gently spell out each letter for
 them? So then, remember in life that your duties are the sum of
@@ -1233,7 +1279,8 @@ kathêkon, the simple, appropriate actions on the path to virtue.
 February 17th
 THE ENEMY OF HAPPINESS
 
-“It is quite impossible to unite happiness with a yearning for
+{
+        quote: "It is quite impossible to unite happiness with a yearning for
 what we don’t have. Happiness has all that it wants, and
 resembling the well-fed, there shouldn’t be hunger or thirst.”
 —EPICTETUS, DISCOURSES, 3.24.17
@@ -1253,7 +1300,8 @@ your happiness. As Epictetus says, the two are not compatible.
 February 18th
 PREPARE FOR THE STORM
 
-“This is the true athlete—the person in rigorous training against
+{
+        quote: "This is the true athlete—the person in rigorous training against
 false impressions. Remain firm, you who suffer, don’t be
 kidnapped by your impressions! The struggle is great, the task
 divine—to gain mastery, freedom, happiness, and tranquility.”
@@ -1275,7 +1323,8 @@ elements. We’re still puny human beings compared with one-hundredmile-per-hour
 February 19th
 THE BANQUET OF LIFE
 
-“Remember to conduct yourself in life as if at a banquet. As
+{
+        quote: "Remember to conduct yourself in life as if at a banquet. As
 something being passed around comes to you, reach out your
 hand and take a moderate helping. Does it pass you by? Don’t
 stop it. It hasn’t yet come? Don’t burn in desire for it, but wait
@@ -1303,7 +1352,8 @@ Enjoy the meal!
 February 20th
 THE GRAND PARADE OF DESIRE
 
-“Robbers, perverts, killers, and tyrants—gather for your
+{
+        quote: "Robbers, perverts, killers, and tyrants—gather for your
 inspection their so-called pleasures!”
 —MARCUS AURELIUS, MEDITATIONS, 6.34
 
@@ -1321,7 +1371,8 @@ a “harmless” vice.
 February 21st
 WISH NOT, WANT NOT
 
-“Remember that it’s not only the desire for wealth and position
+{
+        quote: "Remember that it’s not only the desire for wealth and position
 that debases and subjugates us, but also the desire for peace,
 leisure, travel, and learning. It doesn’t matter what the external
 thing is, the value we place on it subjugates us to another . . .
@@ -1350,7 +1401,8 @@ yourself: Am I in control of them or they in control of me?
 February 22nd
 WHAT’S BETTER LEFT UNSAID
 
-“Cato practiced the kind of public speech capable of moving the
+{
+        quote: "Cato practiced the kind of public speech capable of moving the
 masses, believing proper political philosophy takes care like
 any great city to maintain the warlike element. But he was
 never seen practicing in front of others, and no one ever heard
@@ -1376,7 +1428,8 @@ ourselves honestly. Can you do that?
 February 23rd
 CIRCUMSTANCES HAVE NO CARE FOR OUR FEELINGS
 
-“You shouldn’t give circumstances the power to rouse anger, for
+{
+        quote: "You shouldn’t give circumstances the power to rouse anger, for
 they don’t care at all.”
 —MARCUS AURELIUS, MEDITATIONS, 7.38
 
@@ -1402,7 +1455,8 @@ given situation. Situations don’t care at all.
 February 24th
 THE REAL SOURCE OF HARM
 
-“Keep in mind that it isn’t the one who has it in for you and
+{
+        quote: "Keep in mind that it isn’t the one who has it in for you and
 takes a swipe that harms you, but rather the harm comes from
 your own belief about the abuse. So when someone arouses
 your anger, know that it’s really your own opinion fueling it.
@@ -1432,7 +1486,8 @@ react?
 February 25th
 THE SMOKE AND DUST OF MYTH
 
-“Keep a list before your mind of those who burned with anger
+{
+        quote: "Keep a list before your mind of those who burned with anger
 and resentment about something, of even the most renowned
 for success, misfortune, evil deeds, or any special distinction.
 Then ask yourself, how did that work out? Smoke and dust, the
@@ -1456,7 +1511,8 @@ and dissatisfied.
 February 26th
 TO EACH HIS OWN
 
-“Another has done me wrong? Let him see to it. He has his own
+{
+        quote: "Another has done me wrong? Let him see to it. He has his own
 tendencies, and his own affairs. What I have now is what the
 common nature has willed, and what I endeavor to accomplish
 now is what my nature wills.”
@@ -1478,7 +1534,8 @@ outcome? Was there any benefit?
 CULTIVATING INDIFFERENCE WHERE OTHERS GROW
 PASSION
 
-“Of all the things that are, some are good, others bad, and yet
+{
+        quote: "Of all the things that are, some are good, others bad, and yet
 others indifferent. The good are virtues and all that share in
 them; the bad are the vices and all that indulge them; the
 indifferent lie in between virtue and vice and include wealth,
@@ -1506,7 +1563,8 @@ would you be?
 February 28th
 WHEN YOU LOSE CONTROL
 
-“The soul is like a bowl of water, and our impressions are like
+{
+        quote: "The soul is like a bowl of water, and our impressions are like
 the ray of light falling upon the water. When the water is
 troubled, it appears that the light itself is moved too, but it isn’t.
 So, when a person loses their composure it isn’t their skills and
@@ -1525,7 +1583,8 @@ for you.
 February 29th
 YOU CAN’T ALWAYS (BE) GET(TING) WHAT YOU WANT
 
-“When children stick their hand down a narrow goody jar they
+{
+        quote: "When children stick their hand down a narrow goody jar they
 can’t get their full fist out and start crying. Drop a few treats
 and you will get it out! Curb your desire—don’t set your heart
 on so many things and you will get what you need.”
@@ -1553,7 +1612,8 @@ AWARENESS
 March 1st
 WHERE PHILOSOPHY BEGINS
 
-“An important place to begin in philosophy is this: a clear
+{
+        quote: "An important place to begin in philosophy is this: a clear
 perception of one’s own ruling principle.”
 —EPICTETUS, DISCOURSES, 1.26.15
 
@@ -1573,7 +1633,8 @@ from it we really come alive, that we live lives—to paraphrase Socrates
 March 2nd
 ACCURATE SELF-ASSESSMENT
 
-“Above all, it is necessary for a person to have a true selfestimate, for we commonly think we can do more than we
+{
+        quote: "Above all, it is necessary for a person to have a true selfestimate, for we commonly think we can do more than we
 really can.”
 —SENECA, ON TRANQUILITY OF MIND, 5.2
 
@@ -1600,7 +1661,8 @@ you’re capable of and what it will take to unlock that potential.
 March 3rd
 (DIS)INTEGRATION
 
-“These things don’t go together. You must be a unified human
+{
+        quote: "These things don’t go together. You must be a unified human
 being, either good or bad. You must diligently work either on
 your own reasoning or on things out of your control—take
 great care with the inside and not what’s outside, which is to
@@ -1621,7 +1683,8 @@ we risk external disintegration.
 March 4th
 AWARENESS IS FREEDOM
 
-“The person is free who lives as they wish, neither compelled,
+{
+        quote: "The person is free who lives as they wish, neither compelled,
 nor hindered, nor limited—whose choices aren’t hampered,
 whose desires succeed, and who don’t fall into what repels
 them. Who wishes to live in deception—tripped up, mistaken,
@@ -1650,7 +1713,8 @@ you as free as you think?
 March 5th
 CUTTING BACK ON THE COSTLY
 
-“So, concerning the things we pursue, and for which we
+{
+        quote: "So, concerning the things we pursue, and for which we
 vigorously exert ourselves, we owe this consideration—either
 there is nothing useful in them, or most aren’t useful. Some of
 them are superfluous, while others aren’t worth that much. But
@@ -1673,7 +1737,8 @@ paying without even knowing it.
 March 6th
 DON’T TELL YOURSELF STORIES
 
-“In public avoid talking often and excessively about your
+{
+        quote: "In public avoid talking often and excessively about your
 accomplishments and dangers, for however much you enjoy
 recounting your dangers, it’s not so pleasant for others to hear
 about your affairs.”
@@ -1696,7 +1761,8 @@ Listen and connect with people, don’t perform for them.
 March 7th
 DON’T TRUST THE SENSES
 
-“Heraclitus called self-deception an awful disease and eyesight a
+{
+        quote: "Heraclitus called self-deception an awful disease and eyesight a
 lying sense.”
 —DIOGENES LAERTIUS, LIVES OF THE EMINENT PHILOSOPHERS, 9.7
 
@@ -1715,7 +1781,8 @@ right decision.
 March 8th
 DON’T UNINTENTIONALLY HAND OVER YOUR FREEDOM
 
-“If a person gave away your body to some passerby, you’d be
+{
+        quote: "If a person gave away your body to some passerby, you’d be
 furious. Yet you hand over your mind to anyone who comes
 along, so they may abuse you, leaving it disturbed and troubled
 —have you no shame in that?”
@@ -1741,7 +1808,8 @@ possession.
 March 9th
 FIND THE RIGHT SCENE
 
-“Above all, keep a close watch on this—that you are never so
+{
+        quote: "Above all, keep a close watch on this—that you are never so
 tied to your former acquaintances and friends that you are
 pulled down to their level. If you don’t, you’ll be ruined. . . .
 You must choose whether to be loved by these friends and
@@ -1775,7 +1843,8 @@ become of you.”
 March 10th
 FIND YOURSELF A CATO
 
-“We can remove most sins if we have a witness standing by as
+{
+        quote: "We can remove most sins if we have a witness standing by as
 we are about to go wrong. The soul should have someone it can
 respect, by whose example it can make its inner sanctum more
 inviolable. Happy is the person who can improve others, not
@@ -1800,7 +1869,8 @@ serve as someone else’s Cato or indifferent spectator when they need it.
 March 11th
 LIVING WITHOUT RESTRICTION
 
-“The unrestricted person, who has in hand what they will in all
+{
+        quote: "The unrestricted person, who has in hand what they will in all
 events, is free. But anyone who can be restricted, coerced, or
 pushed into something against what they will is a slave.”
 —EPICTETUS, DISCOURSES, 4.1.128b–129a
@@ -1823,7 +1893,8 @@ not.
 March 12th
 SEEING THINGS AS THE PERSON AT FAULT DOES
 
-“Whenever someone has done wrong by you, immediately
+{
+        quote: "Whenever someone has done wrong by you, immediately
 consider what notion of good or evil they had in doing it. For
 when you see that, you’ll feel compassion, instead of
 astonishment or rage. For you may yourself have the same
@@ -1856,7 +1927,8 @@ your perspective on otherwise offensive or belligerent actions?
 March 13th
 ONE DAY IT WILL ALL MAKE SENSE
 
-“Whenever you find yourself blaming providence, turn it around
+{
+        quote: "Whenever you find yourself blaming providence, turn it around
 in your mind and you will see that what has happened is in
 keeping with reason.”
 —EPICTETUS, DISCOURSES, 3.17.1
@@ -1877,7 +1949,8 @@ enviable future.
 March 14th
 SELF-DECEPTION IS OUR ENEMY
 
-“Zeno would also say that nothing is more hostile to a firm grasp
+{
+        quote: "Zeno would also say that nothing is more hostile to a firm grasp
 on knowledge than self-deception.”
 —DIOGENES LAERTIUS, LIVES OF THE EMINENT PHILOSOPHERS, 7.23
 
@@ -1897,7 +1970,8 @@ hours at a time.
 March 15th
 THE PRESENT IS ALL WE POSSESS
 
-“Were you to live three thousand years, or even a countless
+{
+        quote: "Were you to live three thousand years, or even a countless
 multiple of that, keep in mind that no one ever loses a life other
 than the one they are living, and no one ever lives a life other
 than the one they are losing. The longest and the shortest life,
@@ -1921,7 +1995,8 @@ you enjoy all of it, it will be enough. It can last a whole lifetime.
 March 16th
 THAT SACRED PART OF YOU
 
-“Hold sacred your capacity for understanding. For in it is all, that
+{
+        quote: "Hold sacred your capacity for understanding. For in it is all, that
 our ruling principle won’t allow anything to enter that is either
 inconsistent with nature or with the constitution of a logical
 creature. It’s what demands due diligence, care for others, and
@@ -1944,7 +2019,8 @@ responsibility.
 March 17th
 THE BEAUTY OF CHOICE
 
-“You are not your body and hair-style, but your capacity for
+{
+        quote: "You are not your body and hair-style, but your capacity for
 choosing well. If your choices are beautiful, so too will you
 be.”
 —EPICTETUS, DISCOURSES, 3.1.39b–40a
@@ -1967,7 +2043,8 @@ what effort, activity, and choices they are a result of.
 March 18th
 IMPOSSIBLE WITHOUT YOUR CONSENT
 
-“Today I escaped from the crush of circumstances, or better put,
+{
+        quote: "Today I escaped from the crush of circumstances, or better put,
 I threw them out, for the crush wasn’t from outside me but in
 my own assumptions.”
 —MARCUS AURELIUS, MEDITATIONS, 9.13
@@ -1988,7 +2065,8 @@ target.
 March 19th
 TIMELESS WISDOM
 
-“For there are two rules to keep at the ready—that there is
+{
+        quote: "For there are two rules to keep at the ready—that there is
 nothing good or bad outside my own reasoned choice, and that
 we shouldn’t try to lead events but to follow them.”
 —EPICTETUS, DISCOURSES, 3.10.18
@@ -2012,7 +2090,8 @@ country since time began.
 March 20th
 READY AND AT HOME
 
-“I may wish to be free from torture, but if the time comes for me
+{
+        quote: "I may wish to be free from torture, but if the time comes for me
 to endure it, I’ll wish to bear it courageously with bravery and
 honor. Wouldn’t I prefer not to fall into war? But if war does
 befall me, I’ll wish to carry nobly the wounds, starvation, and
@@ -2041,7 +2120,8 @@ space, ready to go.
 March 21st
 THE BEST RETREAT IS IN HERE, NOT OUT THERE
 
-“People seek retreats for themselves in the country, by the sea, or
+{
+        quote: "People seek retreats for themselves in the country, by the sea, or
 in the mountains. You are very much in the habit of yearning
 for those same things. But this is entirely the trait of a base
 person, when you can, at any moment, find such a retreat in
@@ -2066,7 +2146,8 @@ head. That will provide us peace. Nothing else.
 March 22nd
 THE SIGN OF TRUE EDUCATION
 
-“What is it then to be properly educated? It is learning to apply
+{
+        quote: "What is it then to be properly educated? It is learning to apply
 our natural preconceptions to the right things according to
 Nature, and beyond that to separate the things that lie within
 our power from those that don’t.”
@@ -2092,7 +2173,8 @@ Not just once, but every single second of every single day.
 March 23rd
 THE STRAITJACKETED SOUL
 
-“The diseases of the rational soul are long-standing and hardened
+{
+        quote: "The diseases of the rational soul are long-standing and hardened
 vices, such as greed and ambition—they have put the soul in a
 straitjacket and have begun to be permanent evils inside it. To
 put it briefly, this sickness is an unrelenting distortion of
@@ -2121,7 +2203,8 @@ And how can your rational mind step in and regulate them?
 March 24th
 THERE IS PHILOSOPHY IN EVERYTHING
 
-“Eat like a human being, drink like a human being, dress up,
+{
+        quote: "Eat like a human being, drink like a human being, dress up,
 marry, have children, get politically active—suffer abuse, bear
 with a headstrong brother, father, son, neighbor, or companion.
 Show us these things so we can see that you truly have learned
@@ -2149,7 +2232,8 @@ is experience that brings meaning to the words.
 March 25th
 WEALTH AND FREEDOM ARE FREE
 
-“. . . freedom isn’t secured by filling up on your heart’s desire
+{
+        quote: ". . . freedom isn’t secured by filling up on your heart’s desire
 but by removing your desire.”
 —EPICTETUS, DISCOURSES, 4.1.175
 
@@ -2163,7 +2247,8 @@ now.
 March 26th
 WHAT RULES YOUR RULING REASON?
 
-“How does your ruling reason manage itself? For in that is the
+{
+        quote: "How does your ruling reason manage itself? For in that is the
 key to everything. Whatever else remains, be it in the power of
 your choice or not, is but a corpse and smoke.”
 —MARCUS AURELIUS, MEDITATIONS, 12.33
@@ -2186,7 +2271,8 @@ reason—the watchmen—but whoever and whatever rules that too.
 March 27th
 PAY WHAT THINGS ARE WORTH
 
-“Diogenes of Sinope said we sell things of great value for things
+{
+        quote: "Diogenes of Sinope said we sell things of great value for things
 of very little, and vice versa.”
 —DIOGENES LAERTIUS, LIVES OF THE EMINENT PHILOSOPHERS, 6.2.35b
 
@@ -2208,7 +2294,8 @@ of the difference.
 March 28th
 COWARDICE AS A DESIGN PROBLEM
 
-“Life without a design is erratic. As soon as one is in place,
+{
+        quote: "Life without a design is erratic. As soon as one is in place,
 principles become necessary. I think you’ll concede that
 nothing is more shameful than uncertain and wavering conduct,
 and beating a cowardly retreat. This will happen in all our
@@ -2239,7 +2326,8 @@ Don’t try to make it up on the fly. Have a plan.
 March 29th
 WHY DO YOU NEED TO IMPRESS THESE PEOPLE AGAIN?
 
-“If you should ever turn your will to things outside your control
+{
+        quote: "If you should ever turn your will to things outside your control
 in order to impress someone, be sure that you have wrecked
 your whole purpose in life. Be content, then, to be a
 philosopher in all that you do, and if you wish also to be seen
@@ -2266,7 +2354,8 @@ philosophy can provide?
 March 30th
 REASON IN ALL THINGS
 
-“Hurry to your own ruling reason, to the reason of the Whole,
+{
+        quote: "Hurry to your own ruling reason, to the reason of the Whole,
 and to your neighbor’s. To your own mind to make it just; to
 the mind of the Whole to remember your place in it; and to
 your neighbor’s mind to learn whether it’s ignorant or of sound
@@ -2283,7 +2372,8 @@ likely to regret.
 March 31st
 YOU’RE A PRODUCT OF YOUR TRAINING
 
-“Chasing what can’t be done is madness. But the base person is
+{
+        quote: "Chasing what can’t be done is madness. But the base person is
 unable to do anything else.”
 —MARCUS AURELIUS, MEDITATIONS, 5.17
 
@@ -2304,7 +2394,8 @@ UNBIASED THOUGHT
 April 1st
 THE COLOR OF YOUR THOUGHTS
 
-“Your mind will take the shape of what you frequently hold in
+{
+        quote: "Your mind will take the shape of what you frequently hold in
 thought, for the human spirit is colored by such impressions.”
 —MARCUS AURELIUS, MEDITATIONS, 5.16
 
@@ -2321,7 +2412,8 @@ thoughts and your life will be dyed the same.
 April 2nd
 BE WARY OF WHAT YOU LET IN
 
-“Drama, combat, terror, numbness, and subservience—every day
+{
+        quote: "Drama, combat, terror, numbness, and subservience—every day
 these things wipe out your sacred principles, whenever your
 mind entertains them uncritically or lets them slip in.”
 —MARCUS AURELIUS, MEDITATIONS, 10.9
@@ -2342,7 +2434,8 @@ your mind.
 April 3rd
 DECEIVED AND DIVIDED
 
-“Circumstances are what deceive us—you must be discerning in
+{
+        quote: "Circumstances are what deceive us—you must be discerning in
 them. We embrace evil before good. We desire the opposite of
 what we once desired. Our prayers are at war with our prayers,
 our plans with our plans.”
@@ -2368,7 +2461,8 @@ And then we’d stop working against ourselves.
 April 4th
 DON’T LET THIS GO TO YOUR HEAD
 
-“Make sure you’re not made ‘Emperor,’ avoid that imperial
+{
+        quote: "Make sure you’re not made ‘Emperor,’ avoid that imperial
 stain. It can happen to you, so keep yourself simple, good, pure,
 saintly, plain, a friend of justice, god-fearing, gracious,
 affectionate, and strong for your proper work. Fight to remain
@@ -2396,7 +2490,8 @@ fortune comes along.
 April 5th
 TRUST, BUT VERIFY
 
-“First off, don’t let the force of the impression carry you away.
+{
+        quote: "First off, don’t let the force of the impression carry you away.
 Say to it, ‘hold up a bit and let me see who you are and where
 you are from—let me put you to the test’ . . .”
 —EPICTETUS, DISCOURSES, 2.18.24
@@ -2420,7 +2515,8 @@ verify.”
 April 6th
 PREPARE YOURSELF FOR NEGATIVITY
 
-“When you first rise in the morning tell yourself: I will
+{
+        quote: "When you first rise in the morning tell yourself: I will
 encounter busybodies, ingrates, egomaniacs, liars, the jealous
 and cranks. They are all stricken with these afflictions because
 they don’t know the difference between good and evil. Because
@@ -2450,7 +2546,8 @@ for it, you’ll be able to act with patience, forgiveness, and understanding.
 April 7th
 EXPECT TO CHANGE YOUR OPINIONS
 
-“There are two things that must be rooted out in human beings—
+{
+        quote: "There are two things that must be rooted out in human beings—
 arrogant opinion and mistrust. Arrogant opinion expects that
 there is nothing further needed, and mistrust assumes that under
 the torrent of circumstance there can be no happiness.”
@@ -2474,7 +2571,8 @@ certainty, mistrust, and arrogance.
 April 8th
 THE COST OF ACCEPTING COUNTERFEITS
 
-“When it comes to money, where we feel our clear interest, we
+{
+        quote: "When it comes to money, where we feel our clear interest, we
 have an entire art where the tester uses many means to discover
 the worth . . . just as we give great attention to judging things
 that might steer us badly. But when it comes to our own ruling
@@ -2504,7 +2602,8 @@ is untested.”
 April 9th
 TEST YOUR IMPRESSIONS
 
-“From the very beginning, make it your practice to say to every
+{
+        quote: "From the very beginning, make it your practice to say to every
 harsh impression, ‘you are an impression and not at all what
 you appear to be.’ Next, examine and test it by the rules you
 possess, the first and greatest of which is this—whether it
@@ -2534,7 +2633,8 @@ trust, but always verify.
 April 10th
 JUDGMENTS CAUSE DISTURBANCE
 
-“It isn’t events themselves that disturb people, but only their
+{
+        quote: "It isn’t events themselves that disturb people, but only their
 judgments about them.”
 —EPICTETUS, ENCHIRIDION, 5
 
@@ -2550,7 +2650,8 @@ and then blaming it on the event.
 April 11th
 IF YOU WANT TO LEARN, BE HUMBLE
 
-“Throw out your conceited opinions, for it is impossible for a
+{
+        quote: "Throw out your conceited opinions, for it is impossible for a
 person to begin to learn what he thinks he already knows.”
 —EPICTETUS, DISCOURSES, 2.17.1
 
@@ -2574,7 +2675,8 @@ you already have.
 April 12th
 REJECT TANTALIZING GIFTS
 
-“Atreus: Who would reject the flood of fortune’s gifts?
+{
+        quote: "Atreus: Who would reject the flood of fortune’s gifts?
 
 Thyestes: Anyone who has experienced how easily they flow
 back.”
@@ -2603,7 +2705,8 @@ new and shiny can lead us into serious trouble.
 April 13th
 LESS IS MORE
 
-“Don’t act grudgingly, selfishly, without due diligence, or to be a
+{
+        quote: "Don’t act grudgingly, selfishly, without due diligence, or to be a
 contrarian. Don’t overdress your thought in fine language.
 Don’t be a person of too many words and too many deeds. . . .
 Be cheerful, not wanting outside help or the relief others might
@@ -2627,7 +2730,8 @@ impressing people.
 April 14th
 BECOMING AN EXPERT IN WHAT MATTERS
 
-“Believe me, it’s better to produce the balance-sheet of your own
+{
+        quote: "Believe me, it’s better to produce the balance-sheet of your own
 life than that of the grain market.”
 —SENECA, ON THE BREVITY OF LIFE, 18.3b
 
@@ -2649,7 +2753,8 @@ political news every day for thirty years?
 April 15th
 PAY YOUR TAXES
 
-“Nothing will ever befall me that I will receive with gloom or a
+{
+        quote: "Nothing will ever befall me that I will receive with gloom or a
 bad disposition. I will pay my taxes gladly. Now, all the things
 which cause complaint or dread are like the taxes of life—
 things from which, my dear Lucilius, you should never hope for
